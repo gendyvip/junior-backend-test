@@ -1,5 +1,22 @@
 # Backend Developer Coding Test
 
+## How to run
+
+```bash
+npm install
+cp .env.example .env
+npm run seed
+npm start
+```
+
+Seed accounts:
+- admin / admin123
+- user / user123
+
+Challenge 2 answers: `challenge-2/queries.md`
+
+---
+
 Welcome to the coding test for the **Backend Developer role**. This test evaluates your skills in Node.js, Express.js, Express Validator, JWT Authentication, Authorization Middleware, database management, and API design.
 
 ## Test Instructions
@@ -113,4 +130,3 @@ Fork → Implement → Push → Send GitHub link to:
 careers@fekracorp.com
 
 Good luck.
-
